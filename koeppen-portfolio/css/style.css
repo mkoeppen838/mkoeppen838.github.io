@@ -1,0 +1,445 @@
+.welcome {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+    font-weight: bold;
+    padding-top: 50px;
+    padding-bottom: 20px;
+
+}
+
+.socials {
+    font-family: 'Libre Baskerville', serif;
+    font-weight: bold;
+    color: #95b09b;
+    font-size: 18px;
+}
+
+
+.box {
+    padding-top: 50px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    margin: 40px;
+
+}
+
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+
+}
+
+.box img {
+    width: 100%;
+    padding: 50px 20px 10px;
+    height: auto;
+    margin: 0 auto;
+
+}
+
+body {
+    background-color: #f5efe3;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 40px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+
+}
+
+.topnav {
+    overflow: hidden;
+    font-family: 'Libre Baskerville', serif;
+    background-color: #c28470;
+
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+.topnav a:hover {
+    opacity: 0.7;
+}
+
+/* Facebook */
+.fa-facebook {
+    background: #c28470;
+    color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+    background: #c28470;
+    color: white;
+}
+
+/* Instagram */
+.fa-instagram {
+    background: #c28470;
+    color: white;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa,
+a:hover {
+    text-decoration: none;
+    color: #f5efe3;
+}
+
+.top h1 {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+}
+
+.experience {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+}
+
+
+.education {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+}
+
+
+.container-resume h4 {
+    font-weight: bold;
+}
+
+.container-resume p {
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    color: black;
+}
+
+.container-resume h5 {
+    font-weight: bold;
+    color: #c28470;
+}
+
+.container-resume h6 {
+    text-decoration: underline;
+    color: black;
+}
+
+.skills {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+}
+
+.skills b {
+    font-family: 'Libre Baskerville', serif;
+    color: #c28470;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 15px;
+}
+
+.resume-box {
+    padding-left: 20px;
+    margin: 40px;
+    padding-top: 5px;
+}
+
+.date {
+    float: right;
+    display: inline;
+}
+
+.contact-box {
+    padding-left: 20px;
+    padding-top: 50px;
+    margin: 40px;
+
+}
+
+.contact-box img {
+    width: 400px;
+    padding-right: 20px;
+}
+
+.contact-title h3 {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+    font-weight: bold;
+}
+
+
+form {
+    font-family: 'Work Sans', sans-serif;
+    padding-right: 10px;
+    padding-left: 5px;
+}
+
+.text,.form-control {
+    padding: 20px;
+}
+
+.btn {
+    background-color: #c28470;
+    width: 150px;
+    height: 50px;
+    text-align: center;
+    margin: 0 auto;
+    font-family: 'Libre Baskerville', serif;
+    border: none;
+    display: inline-block;
+}
+
+.btn:hover {
+    opacity: 0.7;
+    background-color: #c28470;
+
+}
+
+.btn:active {
+
+    background-color: #c28470;
+
+}
+
+
+.send {
+    padding-top: 35px;
+}
+
+.name {
+    padding-top: 10px;
+}
+
+.send .fa {
+    padding: 10px;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+    margin: 0 auto;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.container-work h2 {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.red {
+    padding: 20px;
+    height: 350px;
+    width: 350px;
+    margin: 40px;
+    position: relative;
+
+}
+
+.red h3 {
+    font-family: 'Libre Baskerville', serif;
+    color: #f5efe3;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    text-align: center;
+    width: 60%;
+}
+
+
+.yellow {
+    padding: 20px;
+    height: 350px;
+    width: 350px;
+    margin: 40px;
+    position: relative;
+
+
+}
+
+.yellow h3 {
+
+    font-family: 'Libre Baskerville', serif;
+    color: #f5efe3;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%; 
+    text-align: center;
+    width: 60%;
+
+
+}
+
+.orange {
+    padding: 20px;
+    height: 350px;
+    width: 350px;
+    margin: 40px;
+    position: relative;
+
+}
+
+.orange h3 {
+
+    font-family: 'Libre Baskerville', serif;
+    color: #f5efe3;
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+    text-align: center;
+    width: 60%;
+}
+
+.description p {
+    text-align: center;
+    padding: 30px;
+    font-size: 20px;
+    line-height: 1.6;
+}
+
+.writing {
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.writing-description{
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    text-align: center;
+}
+
+.writing-top h2 {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+
+.writing h3 {
+    font-family: 'Libre Baskerville', serif;
+    color: #c28470;
+}
+
+.writing h5 {
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+}
+
+.writing a {
+    font-family: 'Libre Baskerville', serif;
+    color: #c28470;
+
+}
+
+.writing a:hover {
+    opacity: 0.7;
+}
+
+.container-photos h2 {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.photos h4 {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+}
+
+.photos {
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.communications {
+    padding-left: 30px;
+    padding-top: 20px;
+}
+
+
+.communications h2 {
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.communications h4 {
+    padding-top: 20px;
+    font-family: 'Libre Baskerville', serif;
+    color: #95b09b;
+}
+
+.communications h5 {
+    font-family: 'Libre Baskerville', serif;
+    color: #c28470;
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+.socials h5 {
+    font-family: 'Libre Baskerville', serif;
+    color: #c28470;
+    padding-top: 20px;
+}
+
+.description-social{
+    font-family: 'Work Sans', sans-serif;
+    color: black;
+    text-align: left;
+}
+
+.abigail {
+    padding-right: 20px;
+    padding-bottom: 60px;
+}
+
+.climb{
+    padding-bottom: 60px;
+}
+
+
+
+    .video {
+        width: 100%;
+    }
+
+    .events {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+

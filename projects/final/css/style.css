@@ -16,27 +16,27 @@ img{
 }
 
 h2{
-    font-family: 'Oswald', sans-serif;
-    color: #024873;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #daa520;
     font-weight: bolder;
 }
 
 h5{
     color: white;
-    font-family: 'Lato', sans-serif;
+    font-family:'Roboto', sans-serif;
     font-style: italic;
 }
 
 .bottom-left {
     position: absolute;
-    bottom: 80px;
+    bottom: 40px;
     left: 120px;
   }
 
 
 p {
     color: white;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;  
 }
 
@@ -54,7 +54,7 @@ p {
 
 .byline p{
     color: white;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 13px;  
 }
 
@@ -64,8 +64,8 @@ p {
 }
 
 h3{
-    font-family: 'Oswald', sans-serif;
-    color: #024873;
+    font-family: 'Nunito Sans', sans-serif;
+    color: #daa520;
 }
 
 blockquote{
@@ -76,7 +76,7 @@ blockquote{
     padding-left: 20px;
     padding-right: 20px;
     color: white;
-    font-family: 'Lato', sans-serif; 
+    font-family: 'Roboto', sans-serif;
     font-style: italic;
 }
 
@@ -87,7 +87,7 @@ blockquote p{
 footer{
     color: white;
     padding: top 10px;
-    font-family: 'Lato', sans-serif; 
+    font-family: 'Roboto', sans-serif; 
     font-size: 10px;
 }
 

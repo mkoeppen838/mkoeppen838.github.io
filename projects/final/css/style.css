@@ -1,0 +1,97 @@
+body {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+
+.container-top{
+    position: relative;
+    color: white;
+}
+
+
+img{
+   width: 100%;
+   height: auto;
+}
+
+h2{
+    font-family: 'Oswald', sans-serif;
+    color: #024873;
+    font-weight: bolder;
+}
+
+h5{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-style: italic;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 80px;
+    left: 120px;
+  }
+
+
+p {
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;  
+}
+
+.text{
+    padding-left: 70px;
+    padding-right:70px;
+    margin: 60px;
+
+}
+
+.byline{
+    padding-left: 70px;
+    margin: 60px;
+}
+
+.byline p{
+    color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;  
+}
+
+.name p{
+    text-transform: uppercase;
+
+}
+
+h3{
+    font-family: 'Oswald', sans-serif;
+    color: #024873;
+}
+
+blockquote{
+    background-color: black;
+    border: solid 3px #012e40;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: white;
+    font-family: 'Lato', sans-serif; 
+    font-style: italic;
+}
+
+blockquote p{
+    font-size: 24px;
+}
+
+footer{
+    color: white;
+    padding: top 10px;
+    font-family: 'Lato', sans-serif; 
+    font-size: 10px;
+}
+
+.infographic img{
+    width: 100%;
+    height: auto;
+}

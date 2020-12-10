@@ -140,21 +140,51 @@ a:hover {
     padding-left: 180px;
 }
 
-iframe{
-    border:none;
+iframe {
+    border: none;
 }
 
-@media (min-width: 576px) { 
+@media(min-width: 576px) {
+    h2 {
+        font-size: medium;
+    }
+}
 
- }
+@media(min-width: 768px) {
+    p {
+        font-size: 24px;
+    }
+    .header-img {
+        width: 100%;
+    }
+
+    body {
+        margin: 30px;
+    }
+
+    blockquote {
+        padding-left: 50px;
+    }
+}
 
 
+@media(min-width: 992px) {
+    p {
+        font-size: 32px;
+    }
+}
 
-// Medium devices (tablets, 768px and up)
-@media (min-width: 768px) { ... }
 
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) { ... }
+@media(min-width: 1200px) {
+    h2 {
+        font-size: 40px;
+    }
 
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) { ... }
+    h5 {
+        font-size: 35px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+}

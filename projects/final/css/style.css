@@ -4,26 +4,26 @@ body {
     padding: 0;
 }
 
-.container-top{
+.container-top {
     position: relative;
     color: white;
 }
 
 
-img{
-   width: 100%;
-   height: auto;
+img {
+    width: 100%;
+    height: auto;
 }
 
-h2{
+h2 {
     font-family: 'Nunito Sans', sans-serif;
     color: #daa520;
-    font-weight: bolder;
+    font-weight: 800;
 }
 
-h5{
+h4 {
     color: white;
-    font-family:'Roboto', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
     font-style: italic;
 }
 
@@ -31,67 +31,100 @@ h5{
     position: absolute;
     bottom: 40px;
     left: 120px;
-  }
+}
 
 
 p {
     color: white;
     font-family: 'Roboto', sans-serif;
-    font-size: 18px;  
+    font-size: 18px;
 }
 
-.text{
-    padding-left: 70px;
-    padding-right:70px;
+.text {
+    padding-left: 65px;
+    padding-right: 70px;
     margin: 60px;
 
 }
 
-.byline{
-    padding-left: 70px;
+.byline {
+    padding-left: 65px;
     margin: 60px;
 }
 
-.byline p{
+.byline p {
     color: white;
     font-family: 'Roboto', sans-serif;
-    font-size: 13px;  
+    font-size: 13px;
 }
 
-.name p{
+.name p {
     text-transform: uppercase;
 
 }
 
-h3{
+h3 {
     font-family: 'Nunito Sans', sans-serif;
     color: #daa520;
+    font-weight: bold;
 }
 
-blockquote{
+blockquote {
     background-color: black;
-    border: solid 3px #012e40;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 20px;
-    padding-right: 20px;
+    border: solid 5px #012e40;
+    padding: 30px;
+    width: 85%;
+
+}
+
+blockquote p {
+    font-size: 24px;
     color: white;
     font-family: 'Roboto', sans-serif;
     font-style: italic;
 }
 
-blockquote p{
-    font-size: 24px;
-}
-
-footer{
+footer {
     color: white;
-    padding: top 10px;
-    font-family: 'Roboto', sans-serif; 
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
     font-size: 10px;
 }
 
-.infographic img{
+.infographic img {
     width: 100%;
     height: auto;
+}
+
+a {
+    font-weight: bold;
+    color: white;
+}
+
+a:hover {
+    color: #086D95;
+}
+
+.credits p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    padding-left: 122px;
+    padding-top: 10px;
+
+}
+
+.box {
+    padding-left: 130px;
+
+}
+
+.background {
+    width: 85%;
+    background-color: white;
+    padding: 30px;
+
+}
+
+.map {
+    padding-left: 130px;
 }

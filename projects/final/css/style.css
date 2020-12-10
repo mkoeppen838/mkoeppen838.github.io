@@ -91,10 +91,6 @@ footer {
     font-size: 10px;
 }
 
-.infographic img {
-    width: 100%;
-    height: auto;
-}
 
 a {
     font-weight: bold;
@@ -127,4 +123,23 @@ a:hover {
 
 .map {
     padding-left: 130px;
+}
+
+.figcaption {
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    padding-left: 170px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    text-align: center;
+
+}
+
+.video {
+    padding-left: 180px;
+}
+
+iframe{
+    border:none;
 }

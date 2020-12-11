@@ -145,9 +145,7 @@ iframe {
 }
 
 @media(min-width: 576px) {
-    h2 {
-        font-size: medium;
-    }
+   
 }
 
 @media(min-width: 768px) {
@@ -169,22 +167,39 @@ iframe {
 
 
 @media(min-width: 992px) {
-    p {
-        font-size: 32px;
-    }
+   p {
+       font-size:18px
+   }
+
+   .header-img {
+    width: 100%;
+    height: auto;
+}
 }
 
 
 @media(min-width: 1200px) {
     h2 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     h5 {
-        font-size: 35px;
+        font-size: 24px;
     }
 
     p {
         font-size: 18px;
     }
+
+   .video {
+       padding-left: 100px;
+   }
+
+   blockquote {
+      padding-left: 20px;
+   }
+
+   .background {
+    padding-left: 20px;
+   }
 }

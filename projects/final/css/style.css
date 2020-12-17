@@ -43,13 +43,14 @@ p {
 }
 
 .text {
-    padding-left: 40px;
+    padding-left: 65px;
     padding-right: 70px;
     margin: 15px auto;
 }
 
 .byline {
     padding-left: 65px;
+    padding-right: 70px;
 }
 
 .byline p {
@@ -105,7 +106,7 @@ a:hover {
     font-family: 'Roboto', sans-serif;
     font-size: 10px;
     padding-top: 10px;
-    padding-left: 40px;
+    padding-left: 15px;
 }
 
 .box {
@@ -158,13 +159,32 @@ a:hover {
 
     .container-top {
         padding-bottom: 220px;
-        padding-top: 30px;
+        width: 100%;
+       padding-right: 10px;
+        padding-left: 10px;
+    }
+
+    .bottom-left{
+        padding-right: 10px;
+    }
+
+    .byline {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+
+    .credits p {
+       padding-right: 10px;
+       padding-left: 10px;
+        
     }
 
     h1 {
         font-size: 35px;
 
     }
+
     h4 {
         font-size: 15px;
     }
@@ -187,31 +207,28 @@ a:hover {
         padding-left: 10px;
     }
 
-.clubs{
-padding-top: 20px;
-}
+    .clubs {
+        padding-top: 20px;
+    }
 
-.box{
-    padding-left:10px;
-}
+    .box {
+        padding-left: 10px;
+    }
 
-blockquote {
-padding: 60px;
-width: 100%;
-}
+    blockquote {
+        padding: 60px;
+        width: 100%;
+    }
 
-.map{
-    padding-left:10px;
-    padding-right:10px;
-}
+    .map {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
 
-.background{
-    width:100%;
-}
+    .background {
+        width: 100%;
+    }
 
-.map iframe{
-
-}
 
 }
 

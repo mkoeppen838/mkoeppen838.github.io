@@ -7,6 +7,7 @@ body {
 .container-top {
     position: relative;
     color: white;
+    padding-left: 40px;
 }
 
 
@@ -30,7 +31,7 @@ h4 {
 .bottom-left {
     position: absolute;
     bottom: 40px;
-    left: 120px;
+    left: 65px;
 }
 
 
@@ -43,13 +44,12 @@ p {
 .text {
     padding-left: 65px;
     padding-right: 70px;
-    margin: 60px;
+    margin: 15px auto;
 
 }
 
 .byline {
     padding-left: 65px;
-    margin: 60px;
 }
 
 .byline p {
@@ -57,7 +57,7 @@ p {
     font-family: 'Roboto', sans-serif;
     font-size: 13px;
 }
-
+   
 .name p {
     text-transform: uppercase;
 
@@ -104,9 +104,8 @@ a:hover {
 .credits p {
     font-family: 'Roboto', sans-serif;
     font-size: 10px;
-    padding-left: 122px;
     padding-top: 10px;
-
+    padding-left: 23px;
 }
 
 .box {
@@ -156,6 +155,7 @@ a:hover {
 
 
 @media(min-width: 576px) {
+
     
 }
 

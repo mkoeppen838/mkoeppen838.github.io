@@ -154,63 +154,17 @@ a:hover {
 }
 
 
-@media(min-width: 576px) {
 
-    
-}
+@media(min-width: 500px) {
 
-@media(min-width: 768px) {
-    p {
-        font-size: 24px;
-    }
-    .header-img {
-        width: 100%;
-    }
 
-    body {
-        margin: 30px;
-    }
-
-    blockquote {
-        padding-left: 50px;
-    }
 }
 
 
-@media(min-width: 992px) {
-    p {
-        font-size: 18px
-    }
+@media (min-width: 768px) { ... }
 
-    .header-img {
-        width: 100%;
-        height: auto;
-    }
-}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
 
-
-@media(min-width: 1200px) {
-    h2 {
-        font-size: 30px;
-    }
-
-    h5 {
-        font-size: 24px;
-    }
-
-    p {
-        font-size: 18px;
-    }
-
-    .video {
-        padding-left: 100px;
-    }
-
-    blockquote {
-        padding-left: 20px;
-    }
-
-    .background {
-        padding-left: 20px;
-    }
-}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
